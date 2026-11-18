@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# API keys
+.env
+.env.*
+
+# Confidential documents
+Confidential_HR_Memo_2026.pdf
+
+# FAISS index
+faiss_index/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
